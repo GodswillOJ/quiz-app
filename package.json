@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "init": "^0.1.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodswillOJ/quiz-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodswillOJ/quiz-app/issues"
+  },
+  "homepage": "https://github.com/GodswillOJ/quiz-app#readme",
+  "description": ""
+}
